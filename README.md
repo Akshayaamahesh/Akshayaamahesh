@@ -19,21 +19,6 @@ LLM grounding, retrieval, multi-agent reasoning, and MLOps.
 - 💼 Previously AI intern at **Shamla Tech** and **TurinTech AI (London)**, software engineering intern at **Schneider Electric**
 - 🌱 Open to opportunities in **ML engineering, applied AI, and backend systems**
 
-## 🔭 Featured Work
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Scientific Claim Verification**](https://github.com/Akshayaamahesh/scientific_claim_verification) | Multi-agent pipeline that retrieves biomedical evidence and labels claims SUPPORT / CONTRADICT / NEI. Benchmarked 5 retrievers (dense Recall@1 **0.689** vs 0.605 TF-IDF); fine-tuned DeBERTa NLI to **71.3%** dev accuracy; calibrated Judge agent. | PyTorch · Transformers · Sentence-BERT · BM25 |
-| [**MLOps Labs**](https://github.com/Akshayaamahesh/mlops-labs) | Testing and CI/CD for ML codebases — pytest + unittest suites, GitHub Actions workflows with JUnit reporting. | Python · pytest · GitHub Actions |
-| [**Disease Prediction & Pneumonia Detection**](https://github.com/Akshayaamahesh/ML-based-disease-prediction-system) | Flask app combining symptom-based disease classification (ensemble of 4 classifiers) with a CNN chest X-ray pneumonia detector. | Flask · PyTorch · scikit-learn |
-| [**Auto-MPG Regression**](https://github.com/Akshayaamahesh/Auto-MPG-Detection) | End-to-end CRISP-DM pipeline: preprocessing, PCA, 7 feature-selection methods, 15 regressors, and Optuna tuning. Best model: Random Forest, **R² 0.91**. | scikit-learn · Optuna · pandas |
-
-## 💼 Experience
-
-- **AI Intern — Shamla Tech Solutions** *(2024, 2026)* — Built a two-stage vision-LLM verification layer that grounds answers in source documents and auto-corrects wrong citations across PDF, Excel, and Word.
-- **Software Development Intern — Schneider Electric** *(Jan – Jul 2025)* — Salesforce Apex / LWC development; AWS (Lambda, DynamoDB, S3) microservices on the global IB360 ALM project.
-- **AI Intern — TurinTech AI, London** *(Jun – Jul 2023)* — Built a LangChain chatbot prototype that was adopted into a full-scale product.
-
 ## 🛠️ Tech Stack
 
 **Languages**
