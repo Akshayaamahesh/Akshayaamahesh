@@ -11,7 +11,7 @@
 
 ---
 
-I build machine learning systems that are **reliable, measurable, and production-minded** — with a focus on
+I build machine learning systems that are **reliable, measurable, and production-minded** - with a focus on
 LLM grounding, retrieval, multi-agent reasoning, and MLOps.
 
 - 🎓 **M.S. Computer Science**, Northeastern University (2025 – 2027) · **B.E. CSE**, PSG College of Technology (2025)
@@ -54,6 +54,6 @@ LLM grounding, retrieval, multi-agent reasoning, and MLOps.
 
 ## 🏆 Highlights
 
-- 🥇 **1st Place — Best Evidence Navigator**, AI Healthcare Hackathon (Nov 2026) — Northeastern University College of Engineering, sponsored by OncoSys AI and The Open Accelerator (Red Hat · MA-AI Hub · IBM)
-- **Best All-Rounder**, Computer Science & Engineering — PSG College of Technology (2025)
+- 🥇 **1st Place - Best Evidence Navigator**, AI Healthcare Hackathon (Nov 2026) - Northeastern University College of Engineering, sponsored by OncoSys AI and The Open Accelerator (Red Hat · MA-AI Hub · IBM)
+- **Best All-Rounder**, Computer Science & Engineering - PSG College of Technology (2025)
 - **Silver Medal**, Kriya Technical Hackathon (2023)
