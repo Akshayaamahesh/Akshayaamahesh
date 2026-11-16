@@ -54,7 +54,6 @@ LLM grounding, retrieval, multi-agent reasoning, and MLOps.
 
 ## 🏆 Highlights
 
+- 🥇 **1st Place — Best Evidence Navigator**, AI Healthcare Hackathon (Nov 2026) — Northeastern University College of Engineering, sponsored by OncoSys AI and The Open Accelerator (Red Hat · MA-AI Hub · IBM)
 - **Best All-Rounder**, Computer Science & Engineering — PSG College of Technology (2025)
 - **Silver Medal**, Kriya Technical Hackathon (2023)
-- **Tech Lead, Kriya 2024** — led a 7-person team building the registration + Razorpay payment platform for PSG Tech's international techno-management fest (500+ registrations, 32 colleges)
-- Presented an AI-driven field-operations scheduling system at **Schneider Electric Global Impact Day**
